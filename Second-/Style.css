@@ -1,0 +1,37 @@
+.new {
+    background-image: url(Image/Tony.jpg)   ;
+    background-size:cover;
+    background-repeat: no-repeat;
+    position: relative;
+    display: inline;
+    height: fit-content;
+   
+  
+}
+
+
+.rel {
+    position: relative;
+    text-align: center;
+    color: rgb(21, 21, 243);
+    font-size: xx-large;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h2 {
+    color: brown;
+}
+p {
+    position: absolute;
+    text-align: center;
+    color: aqua;
+    font-size: 20px;
+    top: 500px;
+}
+a { 
+    position: relative;
+    text-align:center;
+   
+    color: rgb(255, 94, 0);
+    font-size: 17px;
+    top: 400px;
+}
